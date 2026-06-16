@@ -5,7 +5,7 @@ export const PROJECTS: Project[] = [
     id: "escrowia",
     title: "Escrowia",
     period: {
-      start: "03.2025",
+      start: "03.2026",
     },
     link: "https://dev-app.escrowia.ae/login/",
     skills: [
@@ -29,7 +29,7 @@ export const PROJECTS: Project[] = [
     id: "scribe",
     title: "Scribe",
     period: {
-      start: "05.2025",
+      start: "05.2026",
     },
     link: "https://github.com/simran1729/scribe",
     skills: ["Node.js", "Express.js", "TypeScript", "PostgreSQL", "Prisma"],
